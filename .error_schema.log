@@ -1,0 +1,5 @@
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Precalc_Course_Testing/source/main.ptx:6:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element idx, got introduction
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Precalc_Course_Testing/source/main.ptx:6:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element introduction there
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Precalc_Course_Testing/source/main.ptx:6:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element sidebyside, got introduction
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Precalc_Course_Testing/source/main.ptx:6:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element proof, got introduction
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Precalc_Course_Testing/source/main.ptx:6:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element exercise, got introduction
