@@ -62,7 +62,6 @@
     <!-- were the latter would restart numbering chapters within each -->
     <!-- part (this only matters if your book has parts).             -->
     <!-- The attribute @chapter-start give the number of the first    -->
-    <!-- chapter.  @level says how deep (chapter->section->subsection)-->
     <!-- numbering should appear.                                     -->
     <!-- For use with a book organized by part, you can set the -->
     <!--  @part-structure to "decorative" or "structural" -->
@@ -108,7 +107,10 @@
       <!--<worksheets formatted="yes" />-->
   </latex>
 
+  <html embed-button = "yes"/>
   <html>
+    <tableofcontents focused="no" preexpanded-levels = "2"/>
+    <css theme="salem"/>
     <!-- A possible attribute for the html tag above is @short-answer-responses, with values either "always" or "graded".  As in: -->
     <!--<html short-answer-responses="always">-->
 

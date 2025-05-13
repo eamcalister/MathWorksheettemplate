@@ -4,14 +4,14 @@
   <!-- we first include a file which contains the docinfo element: -->
   <xi:include href="./docinfo.ptx" />
 
-  <book xml:id="demo-course">
-    <title>Demo Course</title>
+  <book xml:id="Math121-Fall2025">
+    <title>Math 121 - Fall 2025</title>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./syllabus.ptx" />
+    <xi:include href="./syllabus.ptx"/>
 
     <xi:include href="./course-notes.ptx" />
 

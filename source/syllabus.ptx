@@ -3,15 +3,58 @@
 <chapter xml:id="ch-syllabus" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Syllabus</title>
 
-    <p> Welcome to the course.</p>
+    <introduction>
+      <p>
+        Welcome Math 121 at Fort Lewis College.
+      </p>
+    </introduction>
 
-
-  <paragraphs>
+  <paragraphs xml:id="course-info">
     <title>Course Information</title>
-    <p> This course is about magic beans.  And about how bad copilot is at writing syllabi.</p>
+    <p> 
+      <ul>
+        <li>
+          <p>
+            <term>Course Title</term>: Precalculus
+          </p>
+        </li>
+        <li>
+          <p>
+            <term>Course Number</term>: MATH 121
+          </p>
+        </li>
+        <li>
+          <p>
+            <term>Credits</term>: 4
+          </p>
+        </li>
+        <li>
+            <term>Section 1 Time and Room(s)</term>: 8:00-8:55am, MWF Noble 110, Th Noble 160
+        </li>
+        <li>
+            <term>Section 2 Time and Room(s)</term>: 10:10-11:05am, MWF Noble 110, Th Berndt 340
+        </li>
+        <li>
+            <term>Section 3 Time and Room(s)</term>: 11:25am-12:20pm, MWF Noble 110, Th Berndt 340
+        </li>
+        <li>
+            <term>Section 4 Time and Room(s)</term>: 2:30-3:25pm, MWF Noble 110, Th Berndt 340
+        </li>
+        <li>
+            <term>Instructors:</term> <em>Sections 1 and 3 - </em> Erich McAlister (mcalister_e@fortlewis.edu), <em>Sections 2 and 4 - </em> Levi Lorenzo (email)
+        </li>
+      </ul>
+    </p>
   </paragraphs>
 
-  <paragraphs xml:id="sec-grading">
+  <paragraphs xml:id="description">
+    <title>Course Description</title>
+    <p>
+      This course covers the topics in algebra and trigonometry necessary for students who plan to enroll in MATH 221. Topics include functions, compositions and inverses, and domain and range. Polynomial, rational, exponential, logarithmic, and trigonometric functions are examined in depth, with an emphasis on symbolic methods, parameters that describe each family of functions, and multiple representations of functions (algebraic, numerical, graphical, and verbal representations).
+    </p>
+  </paragraphs>
+
+  <paragraphs xml:id="grading">
     <title>Grading</title>
     <p>This course has no grades because it is just a demo.</p>
   </paragraphs>

@@ -6,9 +6,9 @@
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
   <bibinfo>
     <author>
-      <personname>Instructor Lastname</personname>
-      <department>Mathematical Sciences</department>
-      <institution>University of Templates</institution>
+      <!--personname>Instructor Lastname</personname-->
+      <department>Department of Mathematics</department>
+      <institution>Fort Lewis College</institution>
     </author>
     <date>
       Last Updated: <today />
@@ -23,5 +23,6 @@
   <colophon xml:id="front-colophon">
     <colophon-items/>
   </colophon>
+
 </frontmatter>
 

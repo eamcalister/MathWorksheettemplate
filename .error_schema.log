@@ -1,5 +1,5 @@
-file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Precalc_Course_Testing/source/main.ptx:6:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element idx, got introduction
-file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Precalc_Course_Testing/source/main.ptx:6:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element introduction there
-file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Precalc_Course_Testing/source/main.ptx:6:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element sidebyside, got introduction
-file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Precalc_Course_Testing/source/main.ptx:6:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element proof, got introduction
-file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Precalc_Course_Testing/source/main.ptx:6:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element exercise, got introduction
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Math121Fall2025/source/main.ptx:8:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element bibinfo has extra content: author
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Math121Fall2025/source/main.ptx:6:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element frontmatter there
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Math121Fall2025/source/main.ptx:7:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element book failed to validate content
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Math121Fall2025/source/main.ptx:3:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element docinfo, got pretext
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Math121Fall2025/source/main.ptx:3:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element pretext there

@@ -16,7 +16,16 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "1",
   "title": "Course Syllabus",
-  "body": " Course Syllabus  Welcome to the course.   Course Information  This course is about magic beans. And about how bad copilot is at writing syllabi.    Grading  This course has no grades because it is just a demo.   "
+  "body": " Course Syllabus   Welcome Math 121 at Fort Lewis College.    Course Information      Course Title : Precalculus     Course Number : MATH 121     Credits : 4    Section 1 Time and Room(s) : 8:00-8:55am, MWF Noble 110, Th Noble 160   Section 2 Time and Room(s) : 10:10-11:05am, MWF Noble 110, Th Berndt 340   Section 3 Time and Room(s) : 11:25am-12:20pm, MWF Noble 110, Th Berndt 340   Section 4 Time and Room(s) : 2:30-3:25pm, MWF Noble 110, Th Berndt 340   Instructors:  Sections 1 and 3 - Erich McAlister (mcalister_e@fortlewis.edu), Sections 2 and 4 - Levi Lorenzo (email)      Course Description  This course covers the topics in algebra and trigonometry necessary for students who plan to enroll in MATH 221. Topics include functions, compositions and inverses, and domain and range. Polynomial, rational, exponential, logarithmic, and trigonometric functions are examined in depth, with an emphasis on symbolic methods, parameters that describe each family of functions, and multiple representations of functions (algebraic, numerical, graphical, and verbal representations).    Grading  This course has no grades because it is just a demo.   "
+},
+{
+  "id": "course-info-2",
+  "level": "2",
+  "url": "ch-syllabus.html#course-info-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Course Title Course Number Credits Section 1 Time and Room(s) Section 2 Time and Room(s) Section 3 Time and Room(s) Section 4 Time and Room(s) Instructors: "
 },
 {
   "id": "notes-week-01",
