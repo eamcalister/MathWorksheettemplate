@@ -1,0 +1,165 @@
+INFO    : Building target web
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\Math121Fall2025\source\main.ptx by C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : messages from the log for XSL processing:
+ERROR   : * PTX:ERROR:   numbering level set for footnotes ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for projects ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for equations ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for blocks ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+WARNING : * PTX:WARNING: your document is not a book with parts, so the publisher file  numbering/divisions/@part-structure  entry is being ignored
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : Generating any needed assets.
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\Math121Fall2025\source\main.ptx by C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : messages from the log for XSL processing:
+ERROR   : * PTX:ERROR:   numbering level set for footnotes ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for projects ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for equations ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for blocks ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+WARNING : * PTX:WARNING: your document is not a book with parts, so the publisher file  numbering/divisions/@part-structure  entry is being ignored
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\Math121Fall2025\source\main.ptx by C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : messages from the log for XSL processing:
+ERROR   : * PTX:ERROR:   numbering level set for footnotes ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for projects ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for equations ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for blocks ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+WARNING : * PTX:WARNING: your document is not a book with parts, so the publisher file  numbering/divisions/@part-structure  entry is being ignored
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\Math121Fall2025\source\main.ptx by C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : messages from the log for XSL processing:
+ERROR   : * PTX:ERROR:   numbering level set for footnotes ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for projects ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for equations ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for blocks ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+WARNING : * PTX:WARNING: your document is not a book with parts, so the publisher file  numbering/divisions/@part-structure  entry is being ignored
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\Math121Fall2025\source\main.ptx by C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : messages from the log for XSL processing:
+ERROR   : * PTX:ERROR:   numbering level set for footnotes ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for projects ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for equations ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for blocks ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+WARNING : * PTX:WARNING: your document is not a book with parts, so the publisher file  numbering/divisions/@part-structure  entry is being ignored
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\Math121Fall2025\source\main.ptx by C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : messages from the log for XSL processing:
+ERROR   : * PTX:ERROR:   numbering level set for footnotes ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for projects ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for equations ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for blocks ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+WARNING : * PTX:WARNING: your document is not a book with parts, so the publisher file  numbering/divisions/@part-structure  entry is being ignored
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\Math121Fall2025\source\main.ptx by C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : messages from the log for XSL processing:
+ERROR   : * PTX:ERROR:   numbering level set for footnotes ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for projects ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for equations ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for blocks ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+WARNING : * PTX:WARNING: your document is not a book with parts, so the publisher file  numbering/divisions/@part-structure  entry is being ignored
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\Math121Fall2025\source\main.ptx by C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : messages from the log for XSL processing:
+ERROR   : * PTX:ERROR:   numbering level set for footnotes ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for projects ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for equations ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for blocks ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+WARNING : * PTX:WARNING: your document is not a book with parts, so the publisher file  numbering/divisions/@part-structure  entry is being ignored
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\Math121Fall2025\source\main.ptx by C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : messages from the log for XSL processing:
+ERROR   : * PTX:ERROR:   numbering level set for footnotes ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for projects ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for equations ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for blocks ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+WARNING : * PTX:WARNING: your document is not a book with parts, so the publisher file  numbering/divisions/@part-structure  entry is being ignored
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\Math121Fall2025\source\main.ptx by C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : messages from the log for XSL processing:
+ERROR   : * PTX:ERROR:   numbering level set for footnotes ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for projects ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for equations ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for blocks ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+WARNING : * PTX:WARNING: your document is not a book with parts, so the publisher file  numbering/divisions/@part-structure  entry is being ignored
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\Math121Fall2025\source\main.ptx by C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : messages from the log for XSL processing:
+ERROR   : * PTX:ERROR:   numbering level set for footnotes ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for projects ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for equations ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for blocks ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+WARNING : * PTX:WARNING: your document is not a book with parts, so the publisher file  numbering/divisions/@part-structure  entry is being ignored
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\Math121Fall2025\source\main.ptx by C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : messages from the log for XSL processing:
+ERROR   : * PTX:ERROR:   numbering level set for footnotes ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for projects ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for equations ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for blocks ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+WARNING : * PTX:WARNING: your document is not a book with parts, so the publisher file  numbering/divisions/@part-structure  entry is being ignored
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\Math121Fall2025\source\main.ptx by C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : messages from the log for XSL processing:
+ERROR   : * PTX:ERROR:   numbering level set for footnotes ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for projects ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for equations ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for blocks ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+WARNING : * PTX:WARNING: your document is not a book with parts, so the publisher file  numbering/divisions/@part-structure  entry is being ignored
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\Math121Fall2025\source\main.ptx by C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : messages from the log for XSL processing:
+ERROR   : * PTX:ERROR:   numbering level set for footnotes ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for projects ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for equations ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for blocks ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+WARNING : * PTX:WARNING: your document is not a book with parts, so the publisher file  numbering/divisions/@part-structure  entry is being ignored
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\Math121Fall2025\source\main.ptx by C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : messages from the log for XSL processing:
+ERROR   : * PTX:ERROR:   numbering level set for footnotes ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for projects ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for equations ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for blocks ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+WARNING : * PTX:WARNING: your document is not a book with parts, so the publisher file  numbering/divisions/@part-structure  entry is being ignored
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : Finished generating assets.
+
+INFO    : Preparing to build into C:\Users\mcalister_e\Desktop\Pretext_repositories\Math121Fall2025\output\web.
+INFO    : discovering source file's directory name: C:\Users\mcalister_e\Desktop\Pretext_repositories\Math121Fall2025\source
+INFO    : verifying and expanding input directory: C:\Users\mcalister_e\Desktop\Pretext_repositories\Math121Fall2025\source\../generated-assets
+INFO    : input directory expanded to absolute path: C:\Users\mcalister_e\Desktop\Pretext_repositories\Math121Fall2025\generated-assets
+INFO    : verifying and expanding input directory: C:\Users\mcalister_e\Desktop\Pretext_repositories\Math121Fall2025\source\../assets
+INFO    : input directory expanded to absolute path: C:\Users\mcalister_e\Desktop\Pretext_repositories\Math121Fall2025\assets
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\Math121Fall2025\source\main.ptx by C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : messages from the log for XSL processing:
+ERROR   : * PTX:ERROR:   numbering level set for footnotes ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for projects ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for equations ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for blocks ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+WARNING : * PTX:WARNING: your document is not a book with parts, so the publisher file  numbering/divisions/@part-structure  entry is being ignored
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : Downloading rs services file from https://runestone.academy/cdn/runestone/latest/webpack_static_imports.xml.
+INFO    : Runestone Services via online CDN query: version 7.6.3
+INFO    : Downloading Runestone Services, version 7.6.3
+INFO    : Extracting Runestone Services from archive file
+INFO    : Building custom css theme: theme-salem
+INFO    : converting C:\Users\mcalister_e\Desktop\Pretext_repositories\Math121Fall2025\source\main.ptx to HTML in C:\Users\MCALIS~1\AppData\Local\Temp\ptx-ukaxaui8
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\Math121Fall2025\source\main.ptx by C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\pretext-html.xsl
+INFO    : messages from the log for XSL processing:
+WARNING : * PTX:WARNING: your document is not a book with parts, so the publisher file  numbering/divisions/@part-structure  entry is being ignored
+ERROR   : * PTX:ERROR:   numbering level set for footnotes ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for equations ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+ERROR   : * PTX:ERROR:   numbering level set for projects ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+INFO    : * PTX:INFO:   checking ONLY the last TWO YEARS of element deprecations.
+Rerun with the string parameter "author.deprecations.all" set to "yes" to check your source against all deprecations.
+ERROR   : * PTX:ERROR:   numbering level set for blocks ("2") is greater than the maximum possible levels ("0") configured.  The default value will be used instead
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.18.0\core\xsl\pretext-html.xsl
+INFO    : Removing temporary directory C:\Users\MCALIS~1\AppData\Local\Temp\ptx-ukaxaui8
+INFO    : Removing temporary directory C:\Users\MCALIS~1\AppData\Local\Temp\ptx-7lrfakyd
+INFO    : 
+Success! Run `pretext view web` to see the results.
+
+INFO    : 
+----------------------------------------------------
+INFO    : While running pretext, the following errors occurred:
+
+INFO    : (see log messages above or in the 'logs' folder for more information)
+INFO    : ----------------------------------------------------
