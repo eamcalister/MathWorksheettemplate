@@ -9,7 +9,9 @@
     </p>
   </introduction>
   <!-- The xpointer="worksheet/1" says to only include the first element of the element with id "worksheet", which should be the xml:id on the enclosing article of the included file -->
-  <xi:include href="./activities/magic-beans.ptx" xpointer="worksheet/1" />
+  <xi:include href="./activities/HH6_1_Lin_Quad.ptx" xpointer="worksheet/1" />
+  
+
 
   <!-- Add more xi:include files here to include them in the main course -->
 </chapter>

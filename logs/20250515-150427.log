@@ -1,0 +1,25 @@
+INFO    : Building target web
+ERROR   : XInclude Error caused build to fail:
+ERROR   : file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Math121Fall2025/source/activities/magic-beans.ptx:63:31:FATAL:PARSER:ERR_NAME_REQUIRED: error parsing attribute name
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Math121Fall2025/source/activities/magic-beans.ptx:63:31:FATAL:PARSER:ERR_INTERNAL_ERROR: internal error: xmlParseStartTag: problem parsing attributes
+
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Math121Fall2025/source/activities/magic-beans.ptx:63:31:FATAL:PARSER:ERR_GT_REQUIRED: Couldn't find end of Start Tag mrow line 63
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Math121Fall2025/source/activities/magic-beans.ptx:63:60:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: me line 61 and mrow
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Math121Fall2025/source/activities/magic-beans.ptx:64:30:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: p line 59 and me
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Math121Fall2025/source/activities/magic-beans.ptx:65:25:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: statement line 52 and p
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Math121Fall2025/source/activities/magic-beans.ptx:66:29:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: exercise line 51 and statement
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Math121Fall2025/source/activities/magic-beans.ptx:69:24:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: page line 50 and exercise
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Math121Fall2025/source/activities/magic-beans.ptx:72:20:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: worksheet line 5 and page
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Math121Fall2025/source/activities/magic-beans.ptx:77:21:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: article line 4 and worksheet
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Math121Fall2025/source/activities/magic-beans.ptx:80:15:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: pretext line 3 and article
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Math121Fall2025/source/activities/magic-beans.ptx:81:1:FATAL:PARSER:ERR_DOCUMENT_END: Extra content at the end of the document
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Math121Fall2025/source/activities.ptx:13:0:ERROR:XINCLUDE:XINCLUDE_NO_FALLBACK: could not load file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/Math121Fall2025/source/activities/magic-beans.ptx, and no fallback was found
+CRITICAL: XML syntax for source file is invalid
+INFO    : ------------------------
+CRITICAL: Failed to build.  Exiting...
+INFO    : 
+----------------------------------------------------
+INFO    : While running pretext, the following errors occurred:
+
+INFO    : (see log messages above or in the 'logs' folder for more information)
+INFO    : ----------------------------------------------------

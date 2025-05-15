@@ -14,3 +14,5 @@ INFO    : Added server entry 5f726c7624 19424 8128 localhost
 INFO    : Starting the server
 INFO    : Server will soon be available at http://localhost:8128
 INFO    : Opening browser for target `web` at http://localhost:8128/output/web
+INFO    : Stopping server.
+INFO    : 

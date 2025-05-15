@@ -47,6 +47,33 @@
                     </statement>
                 </exercise>
             </page>
+            <page>
+            <exercise>
+                <statement>
+                    <p>
+                        Another way to find the vertex of a quadratic using simpler functions and shifts. Consider the function
+                        <m>
+                        g(x) = 2x^2-6x+20.
+                        </m>
+                    </p>
+                    <!--p>
+                        We can write this as a vertical shift of the function $f(x) = 2x^2-6x$ upward by $20$ units. Notice that
+                        <me>
+                        <mrow>f(x) \amp = \amp 2x^2 - 6x</mrow>
+                        <mrow> \ \amp = \amp 2x(x-3) </mrow>
+                        </me>
+                    </p-->
+                </statement>
+
+
+            </exercise>   
+
+
+            </page>
+
+
+
+
         </worksheet>
         
 
