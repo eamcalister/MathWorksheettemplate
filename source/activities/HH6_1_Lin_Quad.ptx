@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 
-    <article xml:id="HHLinQuad">
+<article xml:id="HHLinQuad">
 
-    <!-- When creating a new activity, make a copy of this file with appropriate name -->
-        <worksheet margin="1in" bottom="1.25cm" xml:id="Week2-Sec-6_1">
-            <title>Week 2 - Section 6.1 Continued</title>
 
-            <introduction><title>Linear and Quadratic Functions as Shifts and Stretches</title>
-                <p>
-                    The families of all linear and quadratic functions can each be built using simpler functions: <m>l(x) = mx</m> (for positive values of <m>m</m>) and <m>q(x) = ax^2</m> (for positive values of <m>a</m>), for linear and quadratic functions, respectively. What does this mean exactly? It means every linear function is a shift and/or reflection of <m>l(x)</m> and every quadratic function is a shift and/or reflection of <m>q(x)</m>. In this worksheet we'll explore this idea.
-                </p>
-            </introduction>
-        <page>
-            <exercise>
-                <statement>
-                    <p>
-                        Consider the problem: find a linear function <m>y = f(x)</m> with slope <m>2</m> whose <m>y</m>-intercept is at <m>y=7</m>.
-                    </p>
+ <worksheet margin="1in" bottom="1.25cm" xml:id="Week2-Sec-6_1">
+<title>Week 2 - Section 6.1 Continued</title>
+
+<introduction><title>Linear and Quadratic Functions as Shifts and Stretches</title>
+    <p>
+    The families of all linear and quadratic functions can each be built using simpler functions: <m>l(x) = mx</m> (for positive values of <m>m</m>) and <m>q(x) = ax^2</m> (for positive values of <m>a</m>), for linear and quadratic functions, respectively. What does this mean exactly? It means every linear function is a shift and/or reflection of <m>l(x)</m> and every quadratic function is a shift and/or reflection of <m>q(x)</m>. In this worksheet we'll explore this idea.
+    </p>
+</introduction>
+        
+<page>
+<exercise>
+<statement>
+    <p>
+    Consider the problem: find a linear function <m>y = f(x)</m> with slope <m>2</m> whose <m>y</m>-intercept is at <m>y=7</m>.
+    </p>
 <task workspace = "0.5in">
     <statement>
     <p>
