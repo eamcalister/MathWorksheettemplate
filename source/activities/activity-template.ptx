@@ -12,7 +12,7 @@
                     This is the introduction to the activity.
                 </p>
             </introduction>
-
+<page>
             <exercise workspace="2in">
                 <statement>
                     <p>
@@ -20,6 +20,7 @@
                     </p>
                 </statement>
             </exercise>
-        </worksheet>
-    </article>
+</page>       
+</worksheet>
+</article>
 </pretext>
