@@ -85,8 +85,8 @@
     <legend anchor="(bbox[2], bbox[3])"
 	    alignment="sw" opacity="0.9"
 	    scale="0.9" vertical-skip="10">
-      <item ref="f"><m>f(x)</m></item>
-      <item ref="g"><m>g(x)</m></item>
+      <item ref="f"></item>
+      <item ref="g"></item>
     </legend>
   </coordinates>
 </diagram>
