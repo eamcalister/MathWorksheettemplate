@@ -12,6 +12,7 @@
                     This is the introduction to the activity.
                 </p>
             </introduction>
+
 <page>
             <exercise workspace="2in">
                 <statement>
@@ -20,7 +21,18 @@
                     </p>
                 </statement>
             </exercise>
-</page>       
+        </page>
+<page>
+    <exercise workspace="1in">
+        <statement>
+            <p>
+                This is another exercise.
+            </p>
+        </statement>
+    </exercise>
+
+</page>
+
 </worksheet>
 </article>
 </pretext>

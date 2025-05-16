@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Activity Title",
-  "body": " Activity Title   This is the introduction to the activity.      This is the first exercise.     "
+  "body": " Activity Title   This is the introduction to the activity.      This is the first exercise.        This is another exercise.     "
 },
 {
   "id": "Activity-title-3-1",
@@ -26,6 +26,15 @@ var ptx_lunr_docs = [
   "number": "1",
   "title": "",
   "body": "  This is the first exercise.   "
+},
+{
+  "id": "Activity-title-4-1",
+  "level": "2",
+  "url": "Activity-title.html#Activity-title-4-1",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  This is another exercise.   "
 },
 {
   "id": "Week2-Sec-6_1",
