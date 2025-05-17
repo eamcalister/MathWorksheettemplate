@@ -16,7 +16,16 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Activity Title",
-  "body": " Activity Title   This is the introduction to the activity.      This is the first exercise.        This is another exercise.     "
+  "body": " Activity Title   This is the introduction to the activity.   Name:        This is the first exercise.        This is another exercise.     "
+},
+{
+  "id": "Activity-title-2-2",
+  "level": "2",
+  "url": "Activity-title.html#Activity-title-2-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Name: "
 },
 {
   "id": "Activity-title-3-1",

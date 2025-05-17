@@ -4,7 +4,7 @@
 <article xml:id="HHLinQuad">
 
 
- <worksheet margin="1in" bottom="1.25cm" xml:id="Week2-Sec-6_1">
+ <worksheet margin="1in" xml:id="Week2-Sec-6_1">
 <title>Week 2 - Section 6.1 Continued</title>
 
 <introduction><title>Linear and Quadratic Functions as Shifts and Stretches</title>
@@ -39,7 +39,7 @@
  </statement>
 
 </task>
-<task workspace="1.5in">
+<task workspace="1.25in">
 <statement>
     <p>
     The function <m>f(x)</m> you found is a vertical shift of a simpler function. Which simpler function is it? Explain in your own words and show this simpler function in your graph.

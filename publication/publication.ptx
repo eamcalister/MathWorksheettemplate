@@ -28,7 +28,7 @@
       <!--<exercise-project statement="yes" hint="yes" answer="yes" solution="yes" />-->
 
     <!-- Style of fill-in-the-blanks: -->
-      <!--<fillin textstyle="underline" mathstyle="shade" />-->
+    <fillin textstyle="underline" mathstyle="shade" />
 
     <!-- You can set a watermark: -->
       <!-- <watermark scale="0.5">DRAFT</watermark> -->

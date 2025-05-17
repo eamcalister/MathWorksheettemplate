@@ -4,12 +4,15 @@
 <article xml:id="worksheet">
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet margin="1in" bottom="1.25cm" xml:id="Activity-title">
+<worksheet margin="1in" xml:id="Activity-title">
 <title>Activity Title</title>
 
 <introduction>
     <p>
     This is the introduction to the activity.
+    </p>
+    <p>
+        <term>Name:</term> <fillin characters="50" />
     </p>
 </introduction>
 
